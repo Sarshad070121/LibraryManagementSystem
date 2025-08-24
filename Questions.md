@@ -33,5 +33,3 @@ This file contains all the SQL problem statements that were solved as part of th
 25. Show the number of consumers and the number of books they have issued so far (assuming none have been returned).  
 
 ---
-
-✅ These queries cover filtering, aggregation, joins, and analytical SQL use cases.  
